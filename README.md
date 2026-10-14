@@ -1,6 +1,6 @@
 # Urban Water Leakage & Consumption Analytics
 
-**Level:** Beginner  
+**Level:** Intermediate  
 **Tools:** Python, Pandas, NumPy, MySQL, Power BI  
 **Dataset:** 25,000 synthetic records (500 houses × 50 days)
 
